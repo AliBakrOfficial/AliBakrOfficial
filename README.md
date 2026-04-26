@@ -33,7 +33,7 @@ I’m especially interested in:
 
 - turning complex operational workflows into reliable software
 - designing maintainable systems with clear boundaries
-- building tools that support real-world execution, not فقط happy paths
+- building tools that support real-world execution, not just happy paths
 - creating products that combine strong engineering with practical usability
 - making automation more honest, evidence-driven, and production-aware
 
